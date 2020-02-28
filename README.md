@@ -7,18 +7,16 @@ Notebook links in Colab:
 
 > *Workshop on **Introduction to coding and data manipulation***
 > 
-> * [Part 1](TBA)
-> * [Part 2](TBA)
+> * [Notebook 1](https://colab.research.google.com/github/cronegit/5th-workshops/blob/master/Introduction-to-coding-Part1.ipynb)
+> * [Notebook 2](https://colab.research.google.com/github/cronegit/5th-workshops/blob/master/Introduction-to-coding-Part2.ipynb)
 > 
 
 > *Workshop on **Deep-Reinforcement Learning***
 > 
-> * [Part 1](https://colab.research.google.com/drive/11PSG9hthlyO3n4z1Nbs4zO6YXMiuS7aD)
-> * [Part 2](https://colab.research.google.com/drive/1IvqvRnzVN890R7wjhzhKUGgTn7_2CcFP)
+> * [Notebook](https://colab.research.google.com/github/cronegit/5th-workshops/blob/master/Deep-Reinforcement-Learning.ipynb)
 > 
 
 > *Workshop on **Neuroevolutionary computational techniques***
 > 
-> * [Part 1](TBA)
-> * [Part 2](TBA)
+> * [Notebook](https://colab.research.google.com/github/cronegit/5th-workshops/blob/master/Neuroevolutionary-computational-techniques.ipynb)
 > 
